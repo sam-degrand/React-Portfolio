@@ -20,7 +20,7 @@ export const projects = [
       subtitle: "Handlebars, Node.js, MySQL, Tailwind CSS, and Alpine.js",
       description:
         "This web application allows users to generate random quotes and save their favorites for future reference.",
-      image: "./QuoteHub",
+      image: "./QuoteHub.png",
       link: "https://pure-scrubland-99203-50ab01d03184.herokuapp.com/",
     },
 
